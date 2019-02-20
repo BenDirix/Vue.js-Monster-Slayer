@@ -1,6 +1,4 @@
 console.log("--Monster Slayer");
-console.log("test")
-
 new Vue({
     el: "#app",
     data:{
